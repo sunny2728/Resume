@@ -1,0 +1,21 @@
+p{
+    color: red;
+  }
+  
+  *{
+      background-color: bisque;
+  }
+  
+  .stu{
+      color: orange;
+  }
+  
+  h1{
+      color: black;
+      background-color: antiquewhite;
+  }
+  
+  #101{
+      height: 100;
+      width: 100;
+  }
