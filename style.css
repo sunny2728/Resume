@@ -1,21 +1,18 @@
-p{
-    color: red;
-  }
-  
+
   *{
-      background-color: bisque;
+      background-color:white;
   }
   
   .stu{
-      color: orange;
+      color: black;
   }
   
   h1{
       color: black;
-      background-color: antiquewhite;
   }
   
-  #101{
-      height: 100;
-      width: 100;
+
+  *{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
+  
